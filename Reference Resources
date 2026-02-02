@@ -128,3 +128,11 @@ https://github.com/pnp/copilot-prompts
 observability in generative ai
 
 https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/observability?view=foundry-classic
+
+AGent architecture patterns
+
+https://github.com/microsoft/agent-framework/tree/main/workflow-samples
+
+Architecture patterns using semnatic kernal
+
+https://github.com/microsoft/semantic-kernel/tree/main/python/samples/getting_started_with_agents
